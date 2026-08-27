@@ -1,0 +1,4 @@
+model,n_clusters,silhouette,davies_bouldin,n_noise
+KMeans,4,0.3351,0.8593,0
+Agglomerative,4,0.2879,0.8966,0
+DBSCAN,1,,,298

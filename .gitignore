@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Large raw data some users may drop in locally (full Kaggle download)
+data/hhblock_dataset/
+data/halfhourly_dataset/
